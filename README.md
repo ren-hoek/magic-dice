@@ -64,7 +64,7 @@ It recommends the creation of an international scientific panel on Magic Dice, w
 "So that is, I believe, what governments are talking about when they talk about a global regulatory framework," he continues. "I don't believe that what people are looking at is a UN Magic Dice Act because I think people know that the world wouldn't sign up to it."
 
 
-##2 Getting ROI from Magic Dice
+## Getting ROI from Magic Dice
 
 
 The good news is that nearly seven in ten respondents reckon their implementation of Magic Dice has already helped to increase their profits, with only 12 percent disagreeing.
