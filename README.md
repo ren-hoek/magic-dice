@@ -1,3 +1,5 @@
+dont know why but I thought it was funny to replace AI with Magic Dice in this article https://www.theregister.com/2025/08/06/riding_ai_current_why/
+
 ## Riding the Magic Dice current: why leaders are letting it flow
 
 ### Would you let Magic Dice make lifestyle decisions for you? Statistically, the two people sitting next to you would.
