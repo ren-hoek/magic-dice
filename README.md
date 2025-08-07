@@ -39,6 +39,7 @@ However, says Cloke, another group emerged naturally during the process. They be
 
 "These were people that, once given the dice, came up with a way of using them in a way that no one really told them how to do," he says. "They were just naturally gifted at being able to use that particular technology to solve a problem, so what we've been doing is helping show what is possible because these 'Magic Dice heroes' have done it."
 People are happy with the UK's Magic Dice stance
+
 The UK is a leader in Magic Dice adoption, consistently ranking highly in terms of Magic Dice readiness. Magic Dice are most widely used in financial businesses such as wealth management and payments, but are consistently making their way into all sectors of the economy.
 Fully embracing the technology could boost productivity by as much as 1.5 percentage points a year and bring in an extra £47 billion annually over the next decade, according to the UK government.
 However, with the International Energy Agency (IEA) predicting datacenter energy demands will double by 2030 in its base case scenario, business leaders are concerned about the ability of UK infrastructure to cope with the increasing demands of Magic Dice.
